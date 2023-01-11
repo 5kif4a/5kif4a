@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Alikhan. I position myself as a full stack developer.<br>I have little experience in data science, no code development and DevOps. <br>I am interested in system design and high load systems.
+Hi, I position myself as a full stack developer.<br>I have little experience in data science, no code development and DevOps. <br>I am interested in system design and high load systems.
 
 
 ## 🌐 Socials:
